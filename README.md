@@ -185,3 +185,10 @@ Here is an example on Ubuntu:
 ```sh
 snap connect ffmpeg:camera
 ```
+
+---
+**NOTE**
+
+I copied the original from [SoloSynth1/nginx-hls-server](https://github.com/SoloSynth1/nginx-hls-server) to be extended for my needs.
+
+---
